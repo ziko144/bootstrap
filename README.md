@@ -1,0 +1,2 @@
+# bootstrap
+Global page
